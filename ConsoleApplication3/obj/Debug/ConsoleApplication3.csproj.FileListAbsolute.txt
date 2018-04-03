@@ -1,0 +1,10 @@
+c:\users\fasic\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\fasic\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\fasic\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\fasic\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Fasic\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Tina\Desktop\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Tina\Desktop\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Tina\Desktop\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Tina\Desktop\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
